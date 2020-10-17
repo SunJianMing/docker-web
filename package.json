@@ -1,0 +1,23 @@
+{
+  "name": "webhooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunJianMing/docker-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunJianMing/docker-web/issues"
+  },
+  "homepage": "https://github.com/SunJianMing/docker-web#readme",
+  "devDependencies": {
+    "github-webhook-handler": "^1.0.0"
+  }
+}
